@@ -1,0 +1,6 @@
+Makefile_TARGETS = \
+	Makefile.dep \
+	src/Makefile \
+	build/Makefile
+
+Makefile_DEPS = D:/work/产品开发/SH2000D录波器/SHNeuron故障记录分析中心/开发库/Model/Communication/CommClassForRT.rtmdl

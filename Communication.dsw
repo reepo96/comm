@@ -1,0 +1,33 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "Communication"=".\Communication.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/产品开发/SH2000D录波器/SHNeuron故障记录分析中心/开发库/SRC/Communication/COMMUNICATION", RFMDAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
